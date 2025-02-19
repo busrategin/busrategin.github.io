@@ -13,6 +13,10 @@ main:
 
   - title: "Service"
     url: /service/    
+
+    
+  - title: "Links"
+    url: /links/    
     
   - title: "Talks"
     url: /talks/    
